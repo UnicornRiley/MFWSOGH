@@ -2,8 +2,33 @@
 <html>
 <head>
 <title> The index</title>
-<link rel="stylesheet" type="text/css" href="land.css"/>
 </head>
+<style>
+* {
+color:cornflowerblue;
+background-color:lavender;
+}
+
+.welcome {
+margin: auto;
+width: 98%;
+border: 10px solid darkturquoise;
+padding: 5px;
+background-color: darkturquoise;
+color: palevioletred;
+text-align: center;
+}
+
+.warning {
+color: yellow;
+background-color: crimson;
+font-size: 50px;
+width: 85%;
+height: 85%;
+margin: auto;
+text-align: center;
+}
+</style>
 <body>
 <div class="welcome">
 <h1 class="welcome"> Welcome To My Website!</h1>
